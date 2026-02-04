@@ -7,7 +7,7 @@
     Title="TARpe24_Mobiilirakendused">
 
     <ShellContent
-        Title="Home"
+        Title="TARpe24 Mobiilirakendus"
         ContentTemplate="{DataTemplate local:MainPage}"
         Route="MainPage" />
 

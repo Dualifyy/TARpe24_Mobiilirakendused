@@ -11,8 +11,8 @@ namespace TARpe24_Mobiilirakendused
                 .UseMauiApp<App>()
                 .ConfigureFonts(fonts =>
                 {
-                    fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular");
-                    fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
+                    fonts.AddFont("DS-DIGII.TTF", "DSDIGII");
+                    fonts.AddFont("DS-DIGIT.TTF", "DSDIGIT");
                 });
 
 #if DEBUG
